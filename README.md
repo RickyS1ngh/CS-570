@@ -2,4 +2,4 @@
 ### Stevens Institute of Technology – MS in Computer Science  
 Professor: Reza Peyrovian  
 
-This repository contains assignments for **CS 501: Introduction to Data Structures & Algorithms**.
+This repository contains assignments for **CS 570: Introduction to Data Structures & Algorithms**.
